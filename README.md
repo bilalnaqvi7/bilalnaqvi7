@@ -1,4 +1,4 @@
-## Hi there, my name is Syed Mohammad Bilal. Great to connect with you! 👋
+## Hi there, my name is Syed Mohammad Bilal. It's great to connect with you! 👋
 
 ### Data-Driven Marketer & Product Management Enthusiast • Growth Analyst • AI Systems Builder • Published Academic Research Author  
 ### Management & Imapact Consulting Internship Experiences (Including Pro-Bono Projects) • Advisor to Student Consulting Chapters
