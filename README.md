@@ -15,7 +15,7 @@
 ---
 ## 🧰 Tech Stack & Platforms
 
-### 📊 Data, Analytics & Visualisation
+### 📊 Data Analytics & Visualisation
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Agentic%20Workflows-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n%20Automation-EA4B71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Workflows-0B1220?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge"/>
 </p>
 
 ### 🚀 Product, Growth & Marketing Platforms
