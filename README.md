@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/MoEngage-0EA5E9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/DLT%20VILPOWER-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta%20Pixel-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
 ### 🎨 UX, Product & Collaboration
