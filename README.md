@@ -1,8 +1,7 @@
 ## Hi there, I am Syed Mohammad Bilal. Great to connect with you! 👋
 
-### Data-Driven Marketer & Product Management Enthusiast  
-### Data & Growth Analytics • AI Systems Builder • Published Academic Research Author •  
-### Management Consulting Experience (Including Pro-Bono Projects) • Advisor to Student Consulting Chapters
+### Data-Driven Marketer & Product Management Enthusiast • Growth Analyst • AI Systems Builder • Published Academic Research Author  
+### Management & Imapact Consulting Internship Experiences (Including Pro-Bono Projects) • Advisor to Student Consulting Chapters
 
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Analytics-111827?style=for-the-badge" />
