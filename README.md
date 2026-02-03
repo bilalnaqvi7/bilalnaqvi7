@@ -27,30 +27,46 @@
 
 ### 🧠 AI, ML & Automation
 <p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-1D4ED8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GenAI-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Agentic%20Workflows-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n%20Automation-EA4B71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Custom%20GPTs-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP%20&%20ML-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Workflows-0B1220?style=for-the-badge"/>
 </p>
 
 ### 🚀 Product, Growth & Marketing Platforms
 <p>
+  <img src="https://img.shields.io/badge/Mixpanel-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/CleverTap-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MoEngage-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DLT%20VILPOWER-1F2937?style=for-the-badge"/>
 </p>
 
 ### 🎨 UX, Product & Collaboration
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX%20Pilot-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge"/>
+</p>
+
+### 🧠 Consulting Frameworks & Strategy Toolkits
+<p>
+  <img src="https://img.shields.io/badge/MECE-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Issue%20Trees-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Porter%205%20Forces-1E293B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SWOT%20%7C%20TAM--SAM--SOM-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unit%20Economics-030712?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GTM%20Frameworks-020617?style=for-the-badge"/>
 </p>
 
 ---
