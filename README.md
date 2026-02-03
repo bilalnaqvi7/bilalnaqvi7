@@ -4,6 +4,7 @@
 ### Management & Imapact Consulting Internship Experiences (Including Pro-Bono Projects) • Advisor to Student Consulting Chapters
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Consulting-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Analytics-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Product%20Management-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Growth%20Strategy-111827?style=for-the-badge" />
