@@ -64,7 +64,10 @@
   <img src="https://img.shields.io/badge/MECE-0F172A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Issue%20Trees-020617?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Porter%205%20Forces-1E293B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SWOT%20%7C%20TAM--SAM--SOM-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SWOT-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PESTLE-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/4Ps%20of%20Marketing-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/5Cs%20of%20Marketing-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Unit%20Economics-030712?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GTM%20Frameworks-020617?style=for-the-badge"/>
 </p>
